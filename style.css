@@ -1,12 +1,18 @@
-h1{                    
-                     font-size:80px;
-                      color:yellow;
-} 
+h1{
+            font-size: 80px;
+             Color: pink;
+}
+  
+
+#special {
+                font-size: 50px;
+                color:blue;
+}
+
+
+
+
 img{ 
-               height;400px;
-               width:auto;
-}
-#special{
-          font-size:36PX;
-          color:red;
-}
+           height: 25%;
+            widht: auto
+};
